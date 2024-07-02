@@ -47,3 +47,15 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
+.student{
+  padding: 10px;
+  border: 1px solid black;
+  max-width: 25%;
+  margin-top: 20px;
+}
+
+.student p{
+  font-size: 24px;
+  padding: 10px 0 10px 0;
+}
